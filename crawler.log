@@ -1,0 +1,544 @@
+2025-04-03 20:17:20,892 - ecommerce_crawler - INFO - Starting crawl of www.tatacliq.com
+2025-04-03 20:17:22,137 - ecommerce_crawler - INFO - Starting crawl of nykaafashion.com
+2025-04-03 20:17:24,814 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com
+2025-04-03 20:17:26,314 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com
+2025-04-03 20:17:31,283 - ecommerce_crawler - INFO - Completed crawl of www.tatacliq.com. Found 0 product URLs.
+2025-04-03 20:17:46,300 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/decor/wall-decor/mirrors/c/8599
+2025-04-03 20:17:46,301 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/fingers/c/9042
+2025-04-03 20:17:46,301 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/ed-a-mamma/c/10989
+2025-04-03 20:17:46,303 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/first-resort-by-ramola-bachchan/c/9277
+2025-04-03 20:17:46,303 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/luxe-watches/c/12200
+2025-04-03 20:17:46,303 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/baise-gaba/c/4481
+2025-04-03 20:17:46,304 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/jbl/c/6529
+2025-04-03 20:17:46,304 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/the-artment/c/10454
+2025-04-03 20:17:46,304 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/curtains/c/8688
+2025-04-03 20:17:46,305 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/indianwear/c/4
+2025-04-03 20:17:46,305 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/fitness-trackers/c/8926
+2025-04-03 20:17:46,305 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/westernwear/c/6282
+2025-04-03 20:17:46,305 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/kitchen-dining/dinnerware/c/8721
+2025-04-03 20:17:46,306 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/bluetooth-earphones-headphones/c/6771
+2025-04-03 20:17:46,306 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/footwear/c/6857
+2025-04-03 20:17:46,306 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/accessorize-london/c/6748
+2025-04-03 20:17:46,307 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/accessories/watches/c/4641
+2025-04-03 20:17:46,308 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/rozana-jaipur/c/13153
+2025-04-03 20:17:46,308 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/luxe-accessories/c/12043
+2025-04-03 20:17:46,308 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/puma/c/4886
+2025-04-03 20:17:46,309 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/macmerise/c/6426
+2025-04-03 20:17:46,333 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/w/c/4038
+2025-04-03 20:17:46,334 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/fluid-flowing-luxe/c/6002
+2025-04-03 20:17:46,334 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/boat/c/6421
+2025-04-03 20:17:46,335 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/personal-accessories/c/6879
+2025-04-03 20:17:46,335 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/kitchen-dining/cutlery/c/8742
+2025-04-03 20:17:46,336 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/gajra-gang/c/10009
+2025-04-03 20:17:46,336 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/ellementry/c/9177
+2025-04-03 20:17:46,337 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/kitchen-dining/lunch-essentials/c/8805
+2025-04-03 20:17:46,337 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/kicks-and-crawl/c/7865
+2025-04-03 20:17:46,337 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/monk-mei/c/9854
+2025-04-03 20:17:46,338 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/wonderchef/c/9268
+2025-04-03 20:17:46,338 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/luxe-bags/c/12042
+2025-04-03 20:17:46,338 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/nyri/c/14963
+2025-04-03 20:17:46,339 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/appliances/c/8800
+2025-04-03 20:17:46,339 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/lingerie/sleepwear/c/3986
+2025-04-03 20:17:46,339 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/footwear/c/6333
+2025-04-03 20:17:46,339 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/fitbit/c/7074
+2025-04-03 20:17:46,340 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/gulabo-jaipur/c/7287
+2025-04-03 20:17:46,340 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/autumnlane/c/12071
+2025-04-03 20:17:46,340 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/forever-new/c/4495
+2025-04-03 20:17:46,341 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gadgets-tech-accessories/cameras-and-accessories/c/7679
+2025-04-03 20:17:46,341 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/khara-kapas/c/2173
+2025-04-03 20:17:46,341 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/hidden-gems/c/7266
+2025-04-03 20:17:46,341 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/toys-and-games/c/6382
+2025-04-03 20:17:47,731 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/fingers/c/9042
+2025-04-03 20:17:50,152 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/first-resort-by-ramola-bachchan/c/9277
+2025-04-03 20:17:52,647 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/ed-a-mamma/c/10989
+2025-04-03 20:17:54,640 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/home/decor/wall-decor/mirrors/c/8599
+2025-04-03 20:18:07,277 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-vintage-primrose-mirror-medium/p/10687448
+2025-04-03 20:18:07,278 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/the-artment-vista-frame-floor-mirror-gold-arched/p/18738859
+2025-04-03 20:18:07,280 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/c/8528
+2025-04-03 20:18:07,281 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/kica/c/4629
+2025-04-03 20:18:07,281 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/gloot/c/13564
+2025-04-03 20:18:07,282 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/nykd-by-nykaa/c/7059
+2025-04-03 20:18:07,283 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/sportswear/c/6298
+2025-04-03 20:18:07,283 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/sleepwear/c/6372
+2025-04-03 20:18:07,284 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/indianwear/c/6267
+2025-04-03 20:18:07,284 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/biba/c/5274
+2025-04-03 20:18:07,285 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/accessories/c/6343
+2025-04-03 20:18:07,285 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/sports-fitness-equipment/c/11219
+2025-04-03 20:18:07,286 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/decor/c/8594
+2025-04-03 20:18:07,287 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/decor/wall-decor/c/8596
+2025-04-03 20:18:07,287 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/innerwear-sleepwear/c/6850
+2025-04-03 20:18:07,288 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/topwear/c/6824
+2025-04-03 20:18:07,288 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/feeding/c/6351
+2025-04-03 20:18:07,289 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kuber-industries-square-wall-mirror-stickers-premium-acrylic-material-10cm-pack-of-6-silver/p/15146146
+2025-04-03 20:18:07,289 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/innerwear/c/6329
+2025-04-03 20:18:07,290 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/lingerie/c/3946
+2025-04-03 20:18:07,290 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/likha/c/11935
+2025-04-03 20:18:07,291 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/westernwear/c/3
+2025-04-03 20:18:09,235 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/style-files/
+2025-04-03 20:18:15,952 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/baise-gaba/c/4481
+2025-04-03 20:18:17,256 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/luxe-watches/c/12200
+2025-04-03 20:18:18,787 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/jbl/c/6529
+2025-04-03 20:18:30,479 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/jbl-live-pro-2-tws-smart-adaptive-noise-cancelling-true-wireless-earbuds-40hrs-playtime-black/p/6726492
+2025-04-03 20:18:30,480 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/jbl-partybox-110-wireless-bluetooth-party-speaker-160w-12hrs-playtime-partybox-app-black/p/7503338
+2025-04-03 20:18:30,482 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/jbl-flip-6-wireless-portable-bluetooth-speaker-pro-sound-12-hrs-playtime-without-mic-black/p/6726494
+2025-04-03 20:18:30,482 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/c/102
+2025-04-03 20:18:30,483 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/jbl-wave-buds-tws-32hr-deep-bass-dual-mode-quick-charge-ip54-smart-ambient-talkthru-black/p/10017132
+2025-04-03 20:18:30,484 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/iykyk-by-nykaa-fashion/c/11495
+2025-04-03 20:18:31,883 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/the-artment/c/10454
+2025-04-03 20:18:34,507 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/curtains/c/8688
+2025-04-03 20:18:39,289 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/fitness-trackers/c/8926
+2025-04-03 20:18:41,014 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/women/indianwear/c/4
+2025-04-03 20:18:49,329 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/c/6557
+2025-04-03 20:18:49,331 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/footwear/c/3528
+2025-04-03 20:18:49,331 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/sportswear/c/4015
+2025-04-03 20:18:49,332 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/luxe-jewellery/c/12040
+2025-04-03 20:18:49,332 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/only/c/4189
+2025-04-03 20:18:50,568 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/weavllite-elegant-grey-dress-floral-patch-work-dress/p/17745193
+2025-04-03 20:18:50,569 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gajra-gang-taash-panache-yellow-brocade-straight-kurta/p/17486149
+2025-04-03 20:18:51,693 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kids/westernwear/c/6282
+2025-04-03 20:18:53,663 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/home/kitchen-dining/dinnerware/c/8721
+2025-04-03 20:18:57,141 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/weavllite-red-festive-embroidered-co-ord-set-of-2/p/17738286
+2025-04-03 20:18:57,143 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/anjaneya-sarees-green-woven-designer-cotton-silk-kanjivaram-saree-with-unstitched/p/18557142
+2025-04-03 20:18:57,144 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/lush-glam-pink-traditional-embroidered-kurta-pant-with-dupatta-set-of-3/p/19174446
+2025-04-03 20:18:57,146 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/indianwear/c/4?f=sort%3Dnew%60.%60arrivals%3Bnew_tags_filter%3Dexpressdelivery_&isFilteredUrl=true&ptype=TIPTILE
+2025-04-03 20:18:57,148 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gajra-gang-bonjour-baegum-ecru-georgette-embroidered-short-anarkali-ggbbks03-set-of-3/p/16732673
+2025-04-03 20:18:57,149 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/likha-rayon-asymmetrical-solid-green-kurta-with-chanderi-hand-block-dupatta-likutskd205/p/16758106
+2025-04-03 20:18:58,888 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/bluetooth-earphones-headphones/c/6771
+2025-04-03 20:19:01,856 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/men/footwear/c/6857
+2025-04-03 20:19:10,488 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/jack-jones-light-yellow-logo-print-pool-sliders/p/19038318
+2025-04-03 20:19:10,489 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/paaduks-finn-cloak-corduroy-black-men-sandals/p/19311680
+2025-04-03 20:19:10,489 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/reebok-mens-voyager/p/13198424
+2025-04-03 20:19:10,490 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/puma-galaxis-pro-men-performance-boost-running-shoes/p/19208538
+2025-04-03 20:19:10,491 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/neeman-s-the-minimals-off-white-sandals/p/17310454
+2025-04-03 20:19:10,491 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/styli-mens-black-pu-horse-buckle-chunky-loafers/p/14647606
+2025-04-03 20:19:10,491 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/styli-mens-black-buckled-y-strap-comfort-sandals/p/14293708
+2025-04-03 20:19:10,492 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/u-s-polo-assn-men-white-clemt-3-0-sneakers/p/18434886
+2025-04-03 20:19:10,493 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/u-s-polo-assn-men-severin-black-running-shoes/p/17082725
+2025-04-03 20:19:10,493 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/woodland-men-s-dubai-khaki-sneakers/p/15973215
+2025-04-03 20:19:10,494 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/skechers-pelem-emiro-black-flipflops/p/6870669
+2025-04-03 20:19:10,494 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/regal-brown-men-leather-casual-kolhapuris/p/18113968
+2025-04-03 20:19:10,495 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/puma-suede-xl-rope-unisex-white-sneakers/p/19405277
+2025-04-03 20:19:10,496 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/adidas-mould-2-sock-men-black-running-shoes/p/17923889
+2025-04-03 20:19:10,497 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/footwear/c/6857?f=category_filter%3D6861_7095_&isFilteredUrl=true&ptype=TIPTILE
+2025-04-03 20:19:10,499 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/skechers-mira-black-sneakers/p/7749051
+2025-04-03 20:19:10,500 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/footwear/c/6857?f=brand_filter%3D11674_13257_13862_13896_14671_15409_4886_54328_62688_6477_65153_6559_6979_7200_7220_7577_7604_&isFilteredUrl=true&ptype=TIPTILE
+2025-04-03 20:19:10,501 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/drunken-black-flipflops-for-men/p/18468462
+2025-04-03 20:19:13,049 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/watches/c/6875
+2025-04-03 20:19:13,049 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/bottoms/c/6834
+2025-04-03 20:19:13,051 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/luxe-indian-wear/c/12039
+2025-04-03 20:19:13,051 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/twig-twine/c/12291
+2025-04-03 20:19:13,052 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/bags/c/89
+2025-04-03 20:19:13,053 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/rsvp/c/4706
+2025-04-03 20:19:13,054 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/twenty-dresses-by-nykaa-fashion/c/4240
+2025-04-03 20:19:13,055 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/ethnicwear/c/6841
+2025-04-03 20:19:13,056 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/luxe-western-wear/c/12038
+2025-04-03 20:19:13,057 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/jewellery/c/77
+2025-04-03 20:19:13,058 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/cider/c/15204
+2025-04-03 20:19:13,432 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/?ptype=homepage
+2025-04-03 20:19:15,731 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/accessorize-london/c/6748
+2025-04-03 20:19:18,338 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/buckaroo-artek-full-grain-natural-leather-brown-chelsea-boots/p/17416660
+2025-04-03 20:19:18,338 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/asics-mens-black-graphite-grey-ezeride-running-shoes/p/16576651
+2025-04-03 20:19:18,485 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/campus-mike-n-black-running-shoes/p/2311762
+2025-04-03 20:19:19,709 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/rozana-jaipur/c/13153
+2025-04-03 20:19:22,323 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/women/accessories/watches/c/4641
+2025-04-03 20:19:25,850 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/accessorize-london-women-s-black-bucket-shoulder-bag/p/17859926
+2025-04-03 20:19:27,470 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/luxe-accessories/c/12043
+2025-04-03 20:19:32,533 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/puma/c/4886
+2025-04-03 20:19:38,165 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/maserati-lifestyle-chronograph-date-analog-dial-color-black-men-s-watch-r8871621011/p/12030244
+2025-04-03 20:19:38,166 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/asics-gel-contend-4b-blue-mens-running-shoes/p/13386825
+2025-04-03 20:19:38,167 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/saint-g-black-gold-leather-square-metal-studded-block-heel/p/5001207
+2025-04-03 20:19:38,919 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kelby-huston-black-isla-soft-sling/p/10716468
+2025-04-03 20:19:38,920 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/asics-gt-2000-12-black-mens-running-shoes/p/11847338
+2025-04-03 20:19:38,923 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/asics-gel-xtend-blue-mens-running-shoes/p/13386830
+2025-04-03 20:19:38,923 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/burberry-men-uv-protected-yellow-lens-square-sunglasses-0be435830018557/p/13678574
+2025-04-03 20:19:38,924 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/nordgreen-pioneer-black-dial-with-black-leather-strap/p/7702830
+2025-04-03 20:19:38,925 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/armani-exchange-white-strap-casual-watch-ax7126/p/10316431
+2025-04-03 20:19:38,925 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/ducati-vittoria-genuine-leather-card-case-for-men-dtlgd2200701/p/10925949
+2025-04-03 20:19:38,926 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/8-other-reasons-dark-soul-necklace-silver/p/9689982
+2025-04-03 20:19:38,926 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/shaze-silver-sun-dragon-bangle-bracelets-and-cuffs/p/519803
+2025-04-03 20:19:38,927 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/da-milano-fish-leather-black-men-belt-bm-5222-35-olblackfish/p/13333437
+2025-04-03 20:19:38,927 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/the-saree-sneakers-zardosi-sneakers/p/7283974
+2025-04-03 20:19:38,927 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/le-specs-pilferer/p/10126245
+2025-04-03 20:19:38,928 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/asics-gel-courtmov-black-mens-indoor-court-sports-shoes/p/13386833
+2025-04-03 20:19:38,928 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/suhani-pittie-gold-toned-flat-chain-green-crystal-maangtika/p/1018736
+2025-04-03 20:19:38,929 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/nappa-dori-mini-kisslock-sling-bag-black/p/14142333
+2025-04-03 20:19:38,929 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/coach-women-gradient-grey-lens-butterfly-sunglasses-0hc8363u50028g56/p/13678728
+2025-04-03 20:19:38,930 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/da-milano-genuine-leather-brown-mens-wallet/p/13326401
+2025-04-03 20:19:38,932 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/coach-0hc8158-metal-horse-carriage-grey-gradient-lens-square-female-sunglasses/p/5813563
+2025-04-03 20:19:39,715 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/macmerise/c/6426
+2025-04-03 20:19:42,222 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/w/c/4038
+2025-04-03 20:19:46,867 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/boat/c/6421
+2025-04-03 20:19:49,045 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/fluid-flowing-luxe/c/6002
+2025-04-03 20:19:57,978 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/masaba-black-stallion-mini-dress/p/404181
+2025-04-03 20:19:57,979 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/saksham-neharicka-coral-print-maxi-dress/p/91728
+2025-04-03 20:19:57,979 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kanika-sharma-green-bageecha-irfat-choga-kurta-set/p/131373
+2025-04-03 20:19:59,859 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/men/personal-accessories/c/6879
+2025-04-03 20:20:03,641 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/offer.html?root=nav_1&ptype=sale_page
+2025-04-03 20:20:05,627 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/home/kitchen-dining/cutlery/c/8742
+2025-04-03 20:20:09,482 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/gajra-gang/c/10009
+2025-04-03 20:20:17,104 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gajra-gang-b-desi-divas-gold-soft-organza-embroidered-saree/p/17486125
+2025-04-03 20:20:17,652 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/ellementry/c/9177
+2025-04-03 20:20:20,597 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/home/kitchen-dining/lunch-essentials/c/8805
+2025-04-03 20:20:23,047 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gajra-gang-rishi-vibhuti-pink-printed-frill-embellished-saree/p/12128136
+2025-04-03 20:20:23,048 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gajra-gang-by-nykaa-fashion-glitterati-purple-swarovski-saree/p/8410584
+2025-04-03 20:20:25,926 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/?nav=home
+2025-04-03 20:20:27,925 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/kicks-and-crawl/c/7865
+2025-04-03 20:20:35,750 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kicks-and-crawl-fun-fruity-friends-carry-nest/p/15573898
+2025-04-03 20:20:35,751 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kicks-and-crawl-little-cream-bear-cap/p/15473744
+2025-04-03 20:20:35,752 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kicks-and-crawl-tiger-stride-bucket-cap/p/15473749
+2025-04-03 20:20:35,752 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kicks-and-crawl-multi-color-unicorns-and-dreams-quilted-muslin-blanket/p/1588521
+2025-04-03 20:20:37,130 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/monk-mei/c/9854
+2025-04-03 20:20:40,070 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/luxe-bags/c/12042
+2025-04-03 20:20:42,030 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/wonderchef/c/9268
+2025-04-03 20:20:48,555 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/nyri/c/14963
+2025-04-03 20:20:58,035 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/nyri-party-modern-embroidered-with-heavy-border-organza-brown-saree-with-unstitched-blouse/p/16240644
+2025-04-03 20:20:58,035 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/nyri-solid-with-heavy-embroidered-sequins-bordered-pink-organza-saree-unstitched-blouse/p/18441879
+2025-04-03 20:20:59,308 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/nyri-navy-blue-party-net-all-over-thread-embroidered-embellished-saree-unstitched-blouse/p/18962728
+2025-04-03 20:20:59,308 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/nyri-party-stones-beads-embellished-scallop-bordered-organza-purple-saree-unstitched-blouse/p/17589853
+2025-04-03 20:21:00,357 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/home/appliances/c/8800
+2025-04-03 20:21:02,072 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/women/lingerie/sleepwear/c/3986
+2025-04-03 20:21:04,265 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kids/footwear/c/6333
+2025-04-03 20:21:09,667 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/fitbit/c/7074
+2025-04-03 20:21:20,170 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/fitbit-inspire-3-health-fitness-tracker-midnight-zen-black-with-6-month-premium-membership/p/8380518
+2025-04-03 20:21:20,171 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/fitbit-lversa-4-fitness-watch-wth-daily-readiness-sleep-score-call-alexa-waterfall-blue-platinum/p/8380515
+2025-04-03 20:21:20,172 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/fitbit-sense-2-health-fitness-watch-with-ecg-sleep-score-stree-mgt-white-platinum/p/8380511
+2025-04-03 20:21:20,173 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/fitbit/c/7074?f=category_filter%3D6397_&isFilteredUrl=true&ptype=TIPTILE
+2025-04-03 20:21:22,350 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/gulabo-jaipur/c/7287
+2025-04-03 20:21:24,136 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/autumnlane/c/12071
+2025-04-03 20:21:26,432 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/lp/about-us?root=footer
+2025-04-03 20:21:31,635 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/forever-new/c/4495
+2025-04-03 20:21:41,364 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/forever-new-clover-snaffle-detail-mini-dress/p/18961847
+2025-04-03 20:21:41,365 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/forever-new-juniper-flare-white-pant/p/16994139
+2025-04-03 20:21:41,366 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/forever-new-black-solid-cassie-backpack/p/16251386
+2025-04-03 20:21:44,093 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/gadgets-tech-accessories/cameras-and-accessories/c/7679
+2025-04-03 20:21:47,203 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/khara-kapas/c/2173
+2025-04-03 20:21:53,299 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/hidden-gems/c/7266
+2025-04-03 20:21:56,215 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kids/toys-and-games/c/6382
+2025-04-03 20:22:01,227 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/casagold-vintage-primrose-mirror-medium/p/10687448
+2025-04-03 20:22:05,099 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/haus-kinder-pom-pom-crib-cot-bunting-multi-color/p/10128738
+2025-04-03 20:22:05,099 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/playzu-shoot-off-track-1b-twist-21-pieces/p/14897014
+2025-04-03 20:22:06,185 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/the-artment-vista-frame-floor-mirror-gold-arched/p/18738859
+2025-04-03 20:22:11,605 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-vintage-primrose-mirror-small/p/10687447?intcmp=widget,similar_products&ppid=10687448
+2025-04-03 20:22:11,606 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-black-beauty-round-mirror-30-inch/p/10687433?intcmp=widget,more_from_category&ppid=10687448
+2025-04-03 20:22:11,606 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-lotus-soy-wax-scented-candle-jar-gold/p/13813997?intcmp=widget,more_from_category&ppid=10687448
+2025-04-03 20:22:11,607 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/decor/lighting/c/8631?intcmp=widget,cav&ppid=10687448&f=sort%3Dpopularity%3Bbrand_filter%3D10454_6491_16357_59829_66844__&isFilteredUrl=true
+2025-04-03 20:22:11,607 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-36-inch-antique-french-mirror-for-wall-decor/p/12920040?intcmp=widget,similar_products&ppid=10687448
+2025-04-03 20:22:11,608 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-vintage-primrose-mirror-large/p/10687449?intcmp=widget,similar_products&ppid=10687448
+2025-04-03 20:22:11,608 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/la-dimora-selections-visage-wall-art/p/15169121?intcmp=widget,similar_products&ppid=10687448
+2025-04-03 20:22:11,609 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-metal-arch-mirror-with-stand-black/p/10687451?intcmp=widget,more_from_brand&ppid=10687448
+2025-04-03 20:22:11,609 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-metal-arch-mirror-with-stand-rose-gold/p/10687454?intcmp=widget,similar_products&ppid=10687448
+2025-04-03 20:22:11,610 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-metal-arch-mirror-with-stand-white/p/10687452?intcmp=widget,similar_products&ppid=10687448
+2025-04-03 20:22:11,610 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-targua-vegan-bone-inlay-coffee-table-with-stand/p/19062144?intcmp=widget,more_from_brand&ppid=10687448
+2025-04-03 20:22:11,610 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/angie-homes-beautiful-shaving-mirror/p/16826315?intcmp=widget,similar_products&ppid=10687448
+2025-04-03 20:22:11,611 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-geometric-floral-vegan-bone-inlay-coffee-table-with-stand/p/19062145?intcmp=widget,more_from_brand&ppid=10687448
+2025-04-03 20:22:11,611 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-tan-24-inch-leather-round-hanging-mirror-for-wall-decor-with-belt/p/12920030?intcmp=widget,more_from_category&ppid=10687448
+2025-04-03 20:22:11,611 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-vintage-bird-mirror/p/10687459?intcmp=widget,similar_products&ppid=10687448
+2025-04-03 20:22:11,612 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-black-36-inch-leather-round-hanging-mirror-for-wall-decor-with-belt/p/12920035?intcmp=widget,similar_products&ppid=10687448
+2025-04-03 20:22:11,612 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-black-beauty-round-mirror-24-inch/p/10687432?intcmp=widget,more_from_category&ppid=10687448
+2025-04-03 20:22:11,613 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-stainless-steel-mask-lamp/p/9682165?intcmp=widget,more_from_category&ppid=10687448
+2025-04-03 20:22:11,613 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-metal-arch-mirror-with-stand-rose-gold/p/10687454?intcmp=widget,more_from_brand&ppid=10687448
+2025-04-03 20:22:11,613 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/casagold-vintage-chambray-carved-wall-decorative-hanging-mirror/p/12888496?intcmp=widget,more_from_category&ppid=10687448
+2025-04-03 20:22:13,452 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/home/c/8528
+2025-04-03 20:22:16,960 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/logam-theo-sphere-accessory-set-of-2/p/12420846?intcmp=widget,more_from_category&ppid=18738859
+2025-04-03 20:22:16,961 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/logam-rowan-wall-clock/p/10697272?intcmp=widget,more_from_category&ppid=18738859
+2025-04-03 20:22:16,962 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/logam-finch-wall-clock/p/10697270?intcmp=widget,more_from_category&ppid=18738859
+2025-04-03 20:22:16,963 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/the-artment-minimalist-watch-me-fly-wall-decor-silver-set-of-5/p/15646934?intcmp=widget,more_from_brand&ppid=18738859
+2025-04-03 20:22:16,964 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/the-artment-the-connection-canvas-matte-finish-multi-with-out-frame/p/4252858?intcmp=widget,similar_products&ppid=18738859
+2025-04-03 20:22:16,964 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/the-artment-golden-abstract-thought-thinker-accents-showpiece-set-of-3/p/14557091?intcmp=widget,more_from_brand&ppid=18738859
+2025-04-03 20:22:16,965 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/the-artment-in-the-sunset-light-canvas-matte-finish-set-of-2-multi-small/p/4252820?intcmp=widget,similar_products&ppid=18738859
+2025-04-03 20:22:16,965 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/mason-home-artificial-calathea-palm-tree-6-feet/p/16360875?intcmp=widget,more_from_category&ppid=18738859
+2025-04-03 20:22:16,965 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/decor/planters/c/8657?intcmp=widget,cav&ppid=18738859&f=sort%3Dpopularity%3Bbrand_filter%3D14295_16135_10454_9167_59829__&isFilteredUrl=true
+2025-04-03 20:22:16,966 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/the-artment-vista-frame-floor-mirror-black-square/p/18738858?intcmp=widget,more_from_brand&ppid=18738859
+2025-04-03 20:22:16,967 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/logam-floretta-wire-wallflowers-set-of-3/p/12420838?intcmp=widget,more_from_category&ppid=18738859
+2025-04-03 20:22:16,967 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/the-handmade-flair-abstract-golden-decorative-wall-mirror/p/12962779?intcmp=widget,similar_products&ppid=18738859
+2025-04-03 20:22:16,968 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/logam-malibu-wall-clock/p/10697267?intcmp=widget,more_from_category&ppid=18738859
+2025-04-03 20:22:16,968 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/ellementry-inlak-clock-large/p/10432720?intcmp=widget,more_from_category&ppid=18738859
+2025-04-03 20:22:16,968 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/decor/figurines-sculptures/c/8673?intcmp=widget,cav&ppid=18738859&f=sort%3Dpopularity%3Bbrand_filter%3D10454_66844_68497_16135_63359__&isFilteredUrl=true
+2025-04-03 20:22:16,969 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/the-artment-venus-and-adonis-canvas-matte-finish-set-of-3-multi-small/p/4252662?intcmp=widget,similar_products&ppid=18738859
+2025-04-03 20:22:16,969 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/ellementry-lusha-wooden-cane-wall-shelf/p/5927529?intcmp=widget,more_from_category&ppid=18738859
+2025-04-03 20:22:16,970 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/metalsmith-vanity-mirror-with-steel-frame-i-standing-mirror-for-living-and-drawing-room-gold/p/17343476?intcmp=widget,similar_products&ppid=18738859
+2025-04-03 20:22:19,617 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/lp/shipping-and-return-policy
+2025-04-03 20:22:21,284 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/kica/c/4629
+2025-04-03 20:22:24,736 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/gloot/c/13564
+2025-04-03 20:22:29,831 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kica-high-support-criss-cross-back-sports-bra-with-removable-pads-black/p/8221824
+2025-04-03 20:22:29,831 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kica-flare-pants-high-waisted-with-pockets-in-black/p/5961358
+2025-04-03 20:22:29,832 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kica-second-skn-high-impact-crostini-sports-bra-with-back-closure-for-gym-training-beige/p/6955898
+2025-04-03 20:22:31,799 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/cp/sitemap
+2025-04-03 20:22:34,908 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/nykd-by-nykaa/c/7059
+2025-04-03 20:22:37,023 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gloot-cotton-active-polo-t-shirt/p/10532199
+2025-04-03 20:22:37,024 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gloot-anti-odour-mens-active-sports-pants-light-grey/p/8463213
+2025-04-03 20:22:37,024 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gloot-anti-odour-mens-active-sport-shorts-navy/p/8463209
+2025-04-03 20:22:37,025 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gloot-cool-to-care-badge-polo-t-shirt-green/p/11348811
+2025-04-03 20:22:37,026 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gloot-color-block-polo-t-shirt-brown/p/11348814
+2025-04-03 20:22:39,874 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/gateway-api/omsApis/helpCenter?domain=NYKAA_FASHION
+2025-04-03 20:22:41,274 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kids/sportswear/c/6298
+2025-04-03 20:22:46,281 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kids/sleepwear/c/6372
+2025-04-03 20:22:51,939 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kids/indianwear/c/6267
+2025-04-03 20:22:54,902 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/lil-tomatoes-girls-typography-light-weight-cotton-looper-track-suits-black-set-of-2/p/13389013
+2025-04-03 20:22:54,902 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/puma-rcb-2025-youth-red-replica-jersey/p/19540475
+2025-04-03 20:22:54,903 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/sillysally-girls-padded-bra-pack-of-3/p/15628062
+2025-04-03 20:22:54,903 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/go-colors-black-solid-slim-fit-shorts/p/19331795
+2025-04-03 20:22:54,904 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/speedo-girls-endurance-essential-legsuit-swimwear-true-navy-sweet-purple/p/15717472
+2025-04-03 20:22:54,904 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/hopscotch-girls-navy-polka-print-blouse-and-shorts-set/p/18901638
+2025-04-03 20:22:55,924 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/nite-flite-lush-highlands-pyjama-set-of-2/p/13193100
+2025-04-03 20:22:55,924 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/c/6266?f=category_filter%3D6375_6760_6374_13693_6332_7990_6331_6330_&isFilteredUrl=true&intcmp=PLP_BANNER
+2025-04-03 20:22:55,925 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/anthrilo-icecream-short-sleeves-pyjama-blue-set-of-2/p/5894123
+2025-04-03 20:22:56,809 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/biba/c/5274
+2025-04-03 20:22:59,111 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kids/accessories/c/6343
+2025-04-03 20:23:04,826 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/lp/terms-and-conditions
+2025-04-03 20:23:11,500 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/accessories/c/6343?f=category_filter%3D6347_&isFilteredUrl=true&intcmp=PLP_BANNER
+2025-04-03 20:23:11,501 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/spiky-basilisk-kids-cute-waterproof-smartwatch-with-gps-sos-2g-voice-calling-blue/p/17453654
+2025-04-03 20:23:11,502 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/puma-phase-small-kids-backpack/p/16393464
+2025-04-03 20:23:11,502 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/wiki-squad-1-marvlcapam-backpack-blue/p/10271183
+2025-04-03 20:23:11,503 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/mi-arcus-solid-head-bands-for-girls-pack-of-5/p/15121821
+2025-04-03 20:23:13,615 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/luxe-summer-collection/c/12114
+2025-04-03 20:23:17,724 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/home/decor/c/8594
+2025-04-03 20:23:19,775 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/sports-fitness-equipment/c/11219
+2025-04-03 20:23:24,357 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/lp/responsible-disclosure
+2025-04-03 20:23:33,367 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/home/decor/wall-decor/c/8596
+2025-04-03 20:23:38,536 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/men/topwear/c/6824
+2025-04-03 20:23:40,805 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/men/innerwear-sleepwear/c/6850
+2025-04-03 20:23:42,605 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kids/feeding/c/6351
+2025-04-03 20:23:51,267 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/ddecor-live-beautiful/c/9175?transaction_id=ea586560741ba48c0a3ce2cd9bb2e89e&intcmp=nf-app-empty-category-page,home-store,2,d-decor-live-beautiful
+2025-04-03 20:23:51,268 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/twenty-dresses/c/4240?transaction_id=6c1b8bc3502a223c102d085208487675&intcmp=nf-app-empty-category-page,house-of-nykaa,1,twenty-dresses
+2025-04-03 20:23:51,269 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/swayam/c/9174?transaction_id=0b74bc343751eb3a3a6926cac5c403ee&intcmp=nf-app-empty-category-page,home-store,5,swayam
+2025-04-03 20:23:51,269 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/jordan/c/11327?transaction_id=d72cda07ba3c02ab21bdf70246ea1405&intcmp=nf-app-empty-category-page,kids-store,2,jordan
+2025-04-03 20:23:51,270 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/c/6823?f=brand_filter%3D6559_8283_8349_%3Bdiscount_filter%3D30-*_&transaction_id=cc6fb1be46ce7643953a385f2cd67773&intcmp=nf-app-empty-category-page,mens-store,2,u-s-polo-assn&isFilteredUrl=true
+2025-04-03 20:23:51,270 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/biba-kids/c/8244?transaction_id=5f8c1f0dd1a44ab30da91f023c0faca0&intcmp=nf-app-empty-category-page,kids-store,6,biba
+2025-04-03 20:23:51,271 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/red-tape/c/7604?f=gender_filter%3D5197_%3Bdiscount_filter%3D30-*_&transaction_id=98b9dcd41aa57d586ec0ffab602db5e9&intcmp=nf-app-empty-category-page,mens-store,6,red-tape&isFilteredUrl=true
+2025-04-03 20:23:51,272 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/aurelia/c/4036?f=gender_filter%3D5196_&transaction_id=6590aba197d69ebea577f20a6b5b894f&intcmp=nf-app-empty-category-page,womens-store,5,aurelia&isFilteredUrl=true
+2025-04-03 20:23:51,272 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/piccolo/c/6550?transaction_id=850a98b6907ac77e312ab3a3be0f270e&intcmp=nf-app-empty-category-page,kids-store,8,piccolo
+2025-04-03 20:23:51,273 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/ed-a-mamma/c/10989?transaction_id=30ba9ee8bc11114494a8b5d61525993b&intcmp=nf-app-empty-category-page,kids-store,7,ed-a-mamma
+2025-04-03 20:23:51,273 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/c/6823?f=brand_filter%3D6631_6986_7043_%3Bdiscount_filter%3D30-*_&transaction_id=74985bc709bdc4fa8aab427951b6c62e&intcmp=nf-app-empty-category-page,mens-store,3,van-huesen&isFilteredUrl=true
+2025-04-03 20:23:51,274 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/women/c/6557?f=discount_filter%3D0-*_&transaction_id=8466ec4ada85726722061a99e9e8247a&intcmp=nf-app-empty-category-page,womens-store-main-banner,1,women-store&isFilteredUrl=true
+2025-04-03 20:23:51,274 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/biba/c/5274?f=gender_filter%3D5196_&transaction_id=b3b54b3b58d59d0ee28994cb193baffd&intcmp=nf-app-empty-category-page,womens-store,4,biba&isFilteredUrl=true
+2025-04-03 20:23:51,275 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/c/6823?f=brand_filter%3D7200_7220_&transaction_id=286f1fb48f3e0fc165214aa87e8a45bb&intcmp=nf-app-empty-category-page,mens-store,5,adidas&isFilteredUrl=true
+2025-04-03 20:23:51,276 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/taffy/c/10313?transaction_id=865a5f63374a55c7b8d694a2353ad4b8&intcmp=nf-app-empty-category-page,kids-store,4,taffy
+2025-04-03 20:23:51,276 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/priyaasi/c/5291?transaction_id=56d3b0f659468fbda09be05a652d455a&intcmp=nf-app-empty-category-page,womens-store,8,priyaasi
+2025-04-03 20:23:51,277 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/converse/c/11463?transaction_id=29c58b7c636947ff57017440df74e89e&intcmp=nf-app-empty-category-page,kids-store,5,converse
+2025-04-03 20:23:51,277 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/c/8528?&f=brand_filter%3D7739_&transaction_id=6526af8eb357b4df77e7f4a16050fe43&intcmp=nf-app-empty-category-page,home-store,1,chumbak&isFilteredUrl=true
+2025-04-03 20:23:51,278 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/kica/c/4629?transaction_id=a8381a64e4cd12284c1430cc75ec19dd&intcmp=nf-app-empty-category-page,house-of-nykaa,6,kica
+2025-04-03 20:23:53,008 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kuber-industries-square-wall-mirror-stickers-premium-acrylic-material-10cm-pack-of-6-silver/p/15146146
+2025-04-03 20:23:58,859 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kids/innerwear/c/6329
+2025-04-03 20:24:00,393 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/women/lingerie/c/3946
+2025-04-03 20:24:02,135 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/likha/c/11935
+2025-04-03 20:24:08,532 - ecommerce_crawler - INFO - Received shutdown signal
+2025-04-03 20:30:37,336 - ecommerce_crawler - INFO - Starting crawl of www.virgio.com
+2025-04-03 20:30:38,624 - ecommerce_crawler - INFO - Starting crawl of www.tatacliq.com
+2025-04-03 20:30:39,796 - ecommerce_crawler - INFO - Starting crawl of nykaafashion.com
+2025-04-03 20:30:40,986 - ecommerce_crawler - INFO - Starting crawl of www.westside.com
+2025-04-03 20:30:42,257 - ecommerce_crawler - INFO - Fetching https://www.virgio.com
+2025-04-03 20:31:03,804 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com
+2025-04-03 20:31:04,020 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com
+2025-04-03 20:31:06,424 - ecommerce_crawler - INFO - Fetching https://www.westside.com
+2025-04-03 20:32:06,433 - ecommerce_crawler - WARNING - Timeout fetching https://www.westside.com
+2025-04-03 20:32:09,506 - ecommerce_crawler - INFO - Fetching https://www.westside.com
+2025-04-03 20:33:09,520 - ecommerce_crawler - WARNING - Timeout fetching https://www.westside.com
+2025-04-03 20:33:09,576 - ecommerce_crawler - INFO - Completed crawl of www.tatacliq.com. Found 0 product URLs.
+2025-04-03 20:33:16,089 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/bluetooth-earphones-headphones/c/6771
+2025-04-03 20:33:16,090 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/fitbit/c/7074
+2025-04-03 20:33:16,090 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/gajra-gang/c/10009
+2025-04-03 20:33:16,091 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/sports-and-athleisure/c/6888
+2025-04-03 20:33:16,091 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/innerwear-sleepwear/c/6850
+2025-04-03 20:33:16,091 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/men/footwear/c/6857
+2025-04-03 20:33:16,092 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/sports-fitness-equipment/c/11219
+2025-04-03 20:33:16,092 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/decor/wall-decor/mirrors/c/8599
+2025-04-03 20:33:18,444 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/lp/careers
+2025-04-03 20:33:20,836 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/bluetooth-earphones-headphones/c/6771
+2025-04-03 20:33:24,015 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/fitbit/c/7074
+2025-04-03 20:33:26,743 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/date-chic-red-solid-co-ords
+2025-04-03 20:33:26,744 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+2025-04-03 20:33:26,745 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+2025-04-03 20:33:26,745 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+2025-04-03 20:33:26,746 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+2025-04-03 20:33:26,746 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+2025-04-03 20:33:26,747 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/collections/natural-shirts-for-women
+2025-04-03 20:33:26,747 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/collections/virgio-x-iifa
+2025-04-03 20:33:28,671 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/gajra-gang/c/10009
+2025-04-03 20:33:33,873 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/men/sports-and-athleisure/c/6888
+2025-04-03 20:33:38,522 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/men/footwear/c/6857
+2025-04-03 20:33:41,598 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/men/innerwear-sleepwear/c/6850
+2025-04-03 20:33:46,680 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/home/decor/wall-decor/mirrors/c/8599
+2025-04-03 20:33:49,284 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/sports-fitness-equipment/c/11219
+2025-04-03 20:34:00,234 - ecommerce_crawler - INFO - Completed crawl of nykaafashion.com. Found 8 product URLs.
+2025-04-03 20:34:02,766 - ecommerce_crawler - INFO - Fetching https://www.westside.com
+2025-04-03 20:35:02,776 - ecommerce_crawler - WARNING - Timeout fetching https://www.westside.com
+2025-04-03 20:35:02,777 - ecommerce_crawler - ERROR - Error crawling www.westside.com: RetryError[<Future at 0x25fcdbbbc70 state=finished raised TimeoutException>]
+2025-04-03 20:35:04,987 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/date-chic-red-solid-co-ords
+2025-04-03 20:35:07,451 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+2025-04-03 20:35:11,954 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+2025-04-03 20:35:16,562 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+2025-04-03 20:35:31,721 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+2025-04-03 20:36:01,832 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/stores
+2025-04-03 20:36:03,692 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+2025-04-03 20:37:03,698 - ecommerce_crawler - WARNING - Timeout fetching https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+2025-04-03 20:37:03,726 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/collections/natural-shirts-for-women
+2025-04-03 20:37:13,579 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/collections/virgio-x-iifa
+2025-04-03 20:38:13,595 - ecommerce_crawler - WARNING - Timeout fetching https://www.virgio.com/collections/virgio-x-iifa
+2025-04-03 20:38:14,991 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+2025-04-03 20:39:15,004 - ecommerce_crawler - WARNING - Timeout fetching https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+2025-04-03 20:39:16,103 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/collections/virgio-x-iifa
+2025-04-03 20:39:23,579 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+2025-04-03 20:39:34,616 - ecommerce_crawler - INFO - Completed crawl of www.virgio.com. Found 8 product URLs.
+2025-04-03 20:39:36,836 - ecommerce_crawler - INFO - Results saved to product_urls.json
+2025-04-03 21:13:05,234 - ecommerce_crawler - INFO - Starting crawl of www.virgio.com
+2025-04-03 21:13:06,605 - ecommerce_crawler - INFO - Starting crawl of www.tatacliq.com
+2025-04-03 21:13:07,793 - ecommerce_crawler - INFO - Starting crawl of nykaafashion.com
+2025-04-03 21:13:09,057 - ecommerce_crawler - INFO - Starting crawl of www.westside.com
+2025-04-03 21:13:10,255 - ecommerce_crawler - INFO - Fetching https://www.virgio.com
+2025-04-03 21:13:29,579 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com
+2025-04-03 21:13:37,013 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com
+2025-04-03 21:13:39,997 - ecommerce_crawler - INFO - Fetching https://www.westside.com
+2025-04-03 21:14:40,005 - ecommerce_crawler - WARNING - Timeout fetching https://www.westside.com
+2025-04-03 21:14:43,183 - ecommerce_crawler - INFO - Fetching https://www.westside.com
+2025-04-03 21:15:02,441 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/home/beddings/cushions-cushion-covers/cushion-covers/c/8533
+2025-04-03 21:15:02,442 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/luxe-accessories/c/12043
+2025-04-03 21:15:02,443 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gadgets-tech-accessories/cameras-and-accessories/c/7679
+2025-04-03 21:15:02,444 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/gadgets-tech-accessories/headphones/c/6395
+2025-04-03 21:15:02,445 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/luxe-jewellery/c/12040
+2025-04-03 21:15:02,446 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/fingers/c/9042
+2025-04-03 21:15:02,447 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/twig-twine/c/12291
+2025-04-03 21:15:02,447 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/pure-home-+-living/c/9543
+2025-04-03 21:15:02,448 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/sportswear/c/6298
+2025-04-03 21:15:04,266 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/home/beddings/cushions-cushion-covers/cushion-covers/c/8533
+2025-04-03 21:15:09,416 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/footwear-women-sneakers/c-msh1310115
+2025-04-03 21:15:09,418 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/sleepwear-&-robes/c-msh1014106/page-1?q=:relevance:inStockFlag:true:isLuxuryProduct:false:brand:MBH11A00245:brand:MBH11A00245:category:MSH1014106:brand:MBH11A00245:category:MSH1014:brand:MBH11A00245:brand:MBH11B13365&icid2=west:tbs:main:hmp:m1014:mulb:best:06:R50:clp:Bx:010
+2025-04-03 21:15:09,420 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/men-sandals-floaters/c-msh1311127
+2025-04-03 21:15:09,421 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/search/page-1?q=watches+eoss%3Arelevance%3Alist%3AlistId_c729b9dd2d574f72826dba1938dadb2c%3AinStockFlag%3Atrue%3Acategory%3AMSH15%3Agender%3AMen%3Abrand%3AMBH15B11852&icid2=watch:tsb:main:hmp:m15:b11852:best:03:R20:clp:bx:001
+2025-04-03 21:15:09,422 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/allen-solly/c-mbh11a00023
+2025-04-03 21:15:09,423 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/gia/c-mbh11a00187/page-1
+2025-04-03 21:15:09,617 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+2025-04-03 21:15:09,618 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+2025-04-03 21:15:09,619 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+2025-04-03 21:15:09,620 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+2025-04-03 21:15:09,623 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/date-chic-red-solid-co-ords
+2025-04-03 21:15:09,624 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+2025-04-03 21:15:09,625 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/collections/cotton
+2025-04-03 21:15:11,765 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/luxe-accessories/c/12043
+2025-04-03 21:15:14,161 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/gadgets-tech-accessories/cameras-and-accessories/c/7679
+2025-04-03 21:15:16,802 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/sweatshirts-for-men
+2025-04-03 21:15:16,804 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/view-all-ethnic-wear-for-women
+2025-04-03 21:15:16,804 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/kids-boy-sweatshirts
+2025-04-03 21:15:16,805 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/studiofit-mens-active-wear
+2025-04-03 21:15:16,806 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/lab-grown-diamond-jewellery
+2025-04-03 21:15:16,807 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/sale-kids
+2025-04-03 21:15:16,807 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/living-decor
+2025-04-03 21:15:16,808 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/living-candles-stands
+2025-04-03 21:15:16,810 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/sale-womens-western-wear
+2025-04-03 21:15:19,262 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/gadgets-tech-accessories/headphones/c/6395
+2025-04-03 21:15:25,101 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/luxe-jewellery/c/12040
+2025-04-03 21:15:28,132 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/fingers/c/9042
+2025-04-03 21:15:33,108 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/twig-twine/c/12291
+2025-04-03 21:15:35,553 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/pure-home-+-living/c/9543
+2025-04-03 21:15:42,090 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kids/sportswear/c/6298
+2025-04-03 21:15:46,558 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/footwear-women-sneakers/c-msh1310115
+2025-04-03 21:15:50,776 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/sleepwear-&-robes/c-msh1014106/page-1?q=:relevance:inStockFlag:true:isLuxuryProduct:false:brand:MBH11A00245:brand:MBH11A00245:category:MSH1014106:brand:MBH11A00245:category:MSH1014:brand:MBH11A00245:brand:MBH11B13365&icid2=west:tbs:main:hmp:m1014:mulb:best:06:R50:clp:Bx:010
+2025-04-03 21:15:55,952 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/sitemap
+2025-04-03 21:16:00,896 - ecommerce_crawler - INFO - Completed crawl of nykaafashion.com. Found 9 product URLs.
+2025-04-03 21:16:03,494 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/men-sandals-floaters/c-msh1311127
+2025-04-03 21:16:06,716 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/search?q=dresses%3Arelevance%3Alist%3AlistId_52e4aafe1a414201a60c45808b67a4ba%3AinStockFlag%3Atrue%3Acategory%3AMSH2111102100%3AdiscountAll%3ADiscounted%2BItems&icid2=kids:tsb:main:hmp:m21:mulb:best:01:R22:clp:bx:001
+2025-04-03 21:16:34,277 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/menswear-clp-new
+2025-04-03 21:16:45,180 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/search/page-1?q=watches+eoss%3Arelevance%3Alist%3AlistId_c729b9dd2d574f72826dba1938dadb2c%3AinStockFlag%3Atrue%3Acategory%3AMSH15%3Agender%3AMen%3Abrand%3AMBH15B11852&icid2=watch:tsb:main:hmp:m15:b11852:best:03:R20:clp:bx:001
+2025-04-03 21:16:50,071 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/allen-solly/c-mbh11a00023
+2025-04-03 21:16:55,821 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+2025-04-03 21:16:59,310 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/gia/c-mbh11a00187/page-1
+2025-04-03 21:17:05,537 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+2025-04-03 21:17:09,977 - ecommerce_crawler - INFO - Completed crawl of www.tatacliq.com. Found 6 product URLs.
+2025-04-03 21:17:12,411 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+2025-04-03 21:17:14,933 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+2025-04-03 21:17:20,340 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/date-chic-red-solid-co-ords
+2025-04-03 21:17:28,062 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+2025-04-03 21:17:36,887 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/collections/cotton
+2025-04-03 21:17:43,092 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/pages/terms-and-conditions
+2025-04-03 21:17:45,528 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/pages/refund-policy
+2025-04-03 21:17:46,582 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/sweatshirts-for-men
+2025-04-03 21:17:55,511 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/view-all-ethnic-wear-for-women
+2025-04-03 21:18:19,595 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/kids-boy-sweatshirts
+2025-04-03 21:18:21,612 - ecommerce_crawler - INFO - Completed crawl of www.virgio.com. Found 7 product URLs.
+2025-04-03 21:18:24,115 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/lab-grown-diamond-jewellery
+2025-04-03 21:18:31,309 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/studiofit-mens-active-wear
+2025-04-03 21:18:41,979 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/sale-kids
+2025-04-03 21:18:44,563 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/living-candles-stands
+2025-04-03 21:19:42,427 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/living-decor
+2025-04-03 21:19:44,847 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/sale-womens-western-wear
+2025-04-03 21:20:01,442 - ecommerce_crawler - INFO - Completed crawl of www.westside.com. Found 9 product URLs.
+2025-04-03 21:20:04,065 - ecommerce_crawler - INFO - Results saved to product_urls.json
+2025-04-03 21:20:53,704 - ecommerce_crawler - INFO - Starting crawl of www.virgio.com
+2025-04-03 21:21:29,207 - ecommerce_crawler - INFO - Starting crawl of www.tatacliq.com
+2025-04-03 21:21:30,418 - ecommerce_crawler - INFO - Starting crawl of nykaafashion.com
+2025-04-03 21:21:31,588 - ecommerce_crawler - INFO - Starting crawl of www.westside.com
+2025-04-03 21:21:32,770 - ecommerce_crawler - INFO - Fetching https://www.virgio.com
+2025-04-03 21:21:48,226 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com
+2025-04-03 21:21:51,789 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com
+2025-04-03 21:21:54,565 - ecommerce_crawler - INFO - Fetching https://www.westside.com
+2025-04-03 21:22:54,580 - ecommerce_crawler - WARNING - Timeout fetching https://www.westside.com
+2025-04-03 21:22:57,640 - ecommerce_crawler - INFO - Fetching https://www.westside.com
+2025-04-03 21:23:57,652 - ecommerce_crawler - WARNING - Timeout fetching https://www.westside.com
+2025-04-03 21:23:57,845 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/w/c/4038
+2025-04-03 21:23:57,847 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/kids/sleepwear/c/6372
+2025-04-03 21:23:57,848 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/pebble/c/8309
+2025-04-03 21:23:57,848 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/ellementry/c/9177
+2025-04-03 21:23:57,849 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/iykyk-by-nykaa-fashion/c/11495
+2025-04-03 21:23:57,850 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/little-luxury/c/9666
+2025-04-03 21:23:57,850 - ecommerce_crawler - INFO - Found product URL: https://nykaafashion.com/designers/skechers/c/6477
+2025-04-03 21:23:57,851 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/footwear-women-sneakers/c-msh1310115
+2025-04-03 21:23:57,851 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/accessories-women-bags-sling-bags/c-msh1600000
+2025-04-03 21:23:57,852 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/puma/c-mbh13a00168
+2025-04-03 21:23:57,852 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/sleepwear-&-robes/c-msh1014106/page-1?q=:relevance:inStockFlag:true:isLuxuryProduct:false:brand:MBH11A00245:brand:MBH11A00245:category:MSH1014106:brand:MBH11A00245:category:MSH1014:brand:MBH11A00245:brand:MBH11B13365&icid2=west:tbs:main:hmp:m1014:mulb:best:06:R50:clp:Bx:010
+2025-04-03 21:23:57,852 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/men-sneakers/c-msh1311115
+2025-04-03 21:23:57,853 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/men-sports-shoes-running/c-msh1311128100
+2025-04-03 21:23:57,853 - ecommerce_crawler - INFO - Found product URL: https://www.tatacliq.com/skechers/c-mbh13f00073
+2025-04-03 21:23:58,916 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/kids/sleepwear/c/6372
+2025-04-03 21:24:03,246 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/lp/shipping-and-return-policy
+2025-04-03 21:24:04,773 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/w/c/4038
+2025-04-03 21:24:14,071 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/date-chic-red-solid-co-ords
+2025-04-03 21:24:14,072 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+2025-04-03 21:24:14,073 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+2025-04-03 21:24:14,073 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+2025-04-03 21:24:14,074 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+2025-04-03 21:24:14,074 - ecommerce_crawler - INFO - Found product URL: https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+2025-04-03 21:24:14,260 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/pebble/c/8309
+2025-04-03 21:24:16,569 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/ellementry/c/9177
+2025-04-03 21:24:19,170 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/iykyk-by-nykaa-fashion/c/11495
+2025-04-03 21:24:22,485 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/lp/privacy-policy
+2025-04-03 21:24:34,612 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/little-luxury/c/9666
+2025-04-03 21:24:37,201 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/womenswear-clp
+2025-04-03 21:24:39,049 - ecommerce_crawler - INFO - Fetching https://nykaafashion.com/designers/skechers/c/6477
+2025-04-03 21:24:45,134 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/footwear-women-sneakers/c-msh1310115
+2025-04-03 21:24:53,090 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/accessories-women-bags-sling-bags/c-msh1600000
+2025-04-03 21:24:55,024 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/search?q=watches%3Arelevance%3Alist%3AlistId_7deed6dbef234006a4ac8b0fcc6f92d4%3AinStockFlag%3Atrue%3Abrand%3AMBH15E01399%3Abrand%3AMBH15W00077%3Abrand%3AMBH15B11035&icid2=hero:hbr:main:hmp:m15:mulb:best:10:R2:clp:bx:010
+2025-04-03 21:25:00,408 - ecommerce_crawler - INFO - Completed crawl of nykaafashion.com. Found 7 product URLs.
+2025-04-03 21:25:02,998 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/sleepwear-&-robes/c-msh1014106/page-1?q=:relevance:inStockFlag:true:isLuxuryProduct:false:brand:MBH11A00245:brand:MBH11A00245:category:MSH1014106:brand:MBH11A00245:category:MSH1014:brand:MBH11A00245:brand:MBH11B13365&icid2=west:tbs:main:hmp:m1014:mulb:best:06:R50:clp:Bx:010
+2025-04-03 21:25:05,988 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/puma/c-mbh13a00168
+2025-04-03 21:25:23,508 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/men-sneakers/c-msh1311115
+2025-04-03 21:25:30,561 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/men-sports-shoes-running/c-msh1311128100
+2025-04-03 21:25:32,460 - ecommerce_crawler - INFO - Fetching https://www.tatacliq.com/skechers/c-mbh13f00073
+2025-04-03 21:25:36,967 - ecommerce_crawler - INFO - Fetching https://www.westside.com
+2025-04-03 21:26:19,191 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/date-chic-red-solid-co-ords
+2025-04-03 21:26:21,383 - ecommerce_crawler - INFO - Completed crawl of www.tatacliq.com. Found 7 product URLs.
+2025-04-03 21:26:23,906 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+2025-04-03 21:26:25,317 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+2025-04-03 21:26:35,728 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/sale-mens-footwear
+2025-04-03 21:26:35,730 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/kids-girl-skirts-shorts
+2025-04-03 21:26:35,730 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/baby-girl-accessories
+2025-04-03 21:26:35,731 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/sale-womens-footwear
+2025-04-03 21:26:35,731 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/kurtas-for-women
+2025-04-03 21:26:35,732 - ecommerce_crawler - INFO - Found product URL: https://www.westside.com/collections/home-fragrance
+2025-04-03 21:26:37,232 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/pages/terms-and-conditions
+2025-04-03 21:26:38,458 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+2025-04-03 21:26:40,014 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+2025-04-03 21:26:41,705 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+2025-04-03 21:26:53,395 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/pages/ambassador-program
+2025-04-03 21:26:55,333 - ecommerce_crawler - INFO - Fetching https://www.virgio.com/pages/sustainability
+2025-04-03 21:26:58,559 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/sale-mens-footwear
+2025-04-03 21:27:00,386 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/kids-girl-skirts-shorts
+2025-04-03 21:27:18,303 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/baby-girl-accessories
+2025-04-03 21:27:27,281 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/sale-womens-footwear
+2025-04-03 21:27:29,015 - ecommerce_crawler - INFO - Completed crawl of www.virgio.com. Found 6 product URLs.
+2025-04-03 21:27:31,339 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/home-fragrance
+2025-04-03 21:27:33,673 - ecommerce_crawler - INFO - Fetching https://www.westside.com/collections/kurtas-for-women
+2025-04-03 21:27:40,825 - ecommerce_crawler - INFO - Fetching https://www.westside.com/pages/online-fashion-mag
+2025-04-03 21:27:48,248 - ecommerce_crawler - INFO - Fetching https://www.westside.com/pages/store-locator
+2025-04-03 21:27:54,940 - ecommerce_crawler - INFO - Fetching https://www.westside.com/pages/media-center
+2025-04-03 21:28:13,016 - ecommerce_crawler - INFO - Completed crawl of www.westside.com. Found 6 product URLs.
+2025-04-03 21:28:15,495 - ecommerce_crawler - INFO - Results saved to product_urls.json
