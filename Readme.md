@@ -38,6 +38,10 @@ The crawler uses multiple strategies to identify product URLs:
 - Required packages:
   - aiohttp
   - beautifulsoup4
+  - asyncio
+  - selenium
+  - tenacity
+  - playwright
 
 ## Installation
 
@@ -57,7 +61,7 @@ The crawler uses multiple strategies to identify product URLs:
 ### Basic Usage
 
 ```bash
-python cli.py
+python finalcode.py
 ```
 
 This will run the crawler on the default set of domains:
@@ -66,19 +70,6 @@ This will run the crawler on the default set of domains:
 - nykaafashion.com
 - www.westside.com
 
-### Specify Domains
-
-You can specify domains as command-line arguments:
-
-```bash
-python cli.py example1.com example2.com
-```
-
-Or from a file (one domain per line):
-
-```bash
-python cli.py -f domains.txt
-```
 
 ### Configuration Options
 
@@ -88,11 +79,6 @@ python cli.py -f domains.txt
 - `-d, --delay`: Delay between requests to the same domain in seconds (default: 1.0)
 - `-v, --verbose`: Enable verbose logging
 
-Example with all options:
-
-```bash
-python cli.py -f domains.txt -o results.json -m 2000 -c 20 -d 0.5 -v
-```
 
 ## Output Format
 
